@@ -1,6 +1,6 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thirasak
+Hi My name is Thirasak ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
 * 🌍  I'm based in Bangkok,thailand
@@ -10,6 +10,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
+  <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,7 +20,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/thirasak1150" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/thirasak1150?logo=github&style=for-the-badge&color=1CBF0F&labelColor=1c1917" />
-<br>
 <img src="https://komarev.com/ghpvc/?username=thirasak1150&style=for-the-badge&color=E7DE20&labelColor=1c1917" alt="account counter"/>
 </a>
 
