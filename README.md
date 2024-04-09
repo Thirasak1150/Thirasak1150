@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <div id="header" align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-34-881_512.gif" width="200"/>
+  <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952h8s5sosfugb2tqk7oq3wsiwc3fezgg43rppww7qt&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 
 <div id="badges" align="center">
