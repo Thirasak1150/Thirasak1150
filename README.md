@@ -17,10 +17,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
    
 
 <a href="https://www.github.com/thirasak1150" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thirasak1150?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" />
+src="https://img.shields.io/github/followers/thirasak1150?logo=github&style=for-the-badge&color=1CBF0F&labelColor=1c1917" />
 <br>
-<img src="https://komarev.com/ghpvc/?username=thirasak1150&style=flat-square&color=blue" alt="account counter"/>
+<img src="https://komarev.com/ghpvc/?username=thirasak1150&style=for-the-badge&color=E7DE20&labelColor=1c1917" alt="account counter"/>
 </a>
+
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
