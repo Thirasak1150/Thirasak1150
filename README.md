@@ -15,10 +15,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div id="badges" align="center">
   <a href="https://www.facebook.com/profile.php?id=100009044998271" target="_blank">
    
-<p align="center">
-  <a href="https://www.github.com/thirasak1150" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/thirasak1150?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
+
+<a href="https://www.github.com/thirasak1150" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/thirasak1150?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
 
 ### :hammer_and_wrench: Languages and Tools :
