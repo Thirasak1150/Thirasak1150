@@ -4,7 +4,7 @@ Hi My name is Thirasak ![](https://user-images.githubusercontent.com/18350557/17
 ================================================================================================================================
 
 * 🌍  I'm based in Bangkok,thailand
-* Portfolio https://planktonn.xyz/
+* Portfolio https://planktonn.xyz
 
 
 
